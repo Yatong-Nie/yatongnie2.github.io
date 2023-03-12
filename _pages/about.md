@@ -17,6 +17,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+projects: true
 ---
 
 As a Digital Engineer/Structural Engineer, I am focused on developing digital and sustainable solutions in civil and structural engineering. 
