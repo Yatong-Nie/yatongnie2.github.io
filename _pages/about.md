@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 projects: true
 ---
-
+ 
 As a Digital Engineer/Structural Engineer, I am focused on developing digital and sustainable solutions in civil and structural engineering. 
 My interest spans multiple areas, including **digital engineering, finite element modelling, timber structures, machine learning and data science**. My ultimate goal is to address problems that have wide-ranging significance, develop methods that are both accessible and effective, and built intelligent systems that can improve human lives.
 
