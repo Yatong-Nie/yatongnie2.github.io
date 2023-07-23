@@ -12,9 +12,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Digital Engineering Coordinator - M1 Pacific Motorway extension to Raymond Terrace
+        institution: Gamuda Australia, Sydney, Australia
+        year: 2023 - Present
+        description:
+
     - title: Digital Engineer
       institution: WSP Australia, Sydney, Australia
-      year: 2022 - Present
+      year: 2022 - 2023
       description:
         - Implement the Transport for NSW Digital Engineering Framework on infrastructure projects.
         - Produce federated models and audit against Project Information Requirements (PIM).

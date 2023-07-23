@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Digital Engineer at <a href='https://www.wsp.com/en-AU'>WSP Australia</a>.
+subtitle: Digital Engineering Coordinator at <a href='https://gamuda.com.au/'>Gamuda Australia</a>.
 
 profile:
   align: left
