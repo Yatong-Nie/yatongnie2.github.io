@@ -6,7 +6,7 @@ subtitle: Digital Engineering Coordinator at <a href='https://gamuda.com.au/'>Ga
 
 profile:
   align: left
-  image: yatong.jpeg
+  image: yatong.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
