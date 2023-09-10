@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 projects: true
 ---
  
-As a Digital Engineer/Structural Engineer, I am focused on developing digital and sustainable solutions in civil and structural engineering. 
-My interest spans multiple areas, including **digital engineering, finite element modelling, timber structures, machine learning and data science**. My ultimate goal is to address problems that have wide-ranging significance, develop methods that are both accessible and effective, and built intelligent systems that can improve human lives.
+As a digital engineer and timber structure specialist, I am focused on developing digital and sustainable solutions in civil and structural engineering. 
+My interest spans multiple areas, including **digital engineering, Open BIM, machine learning and timber structures**. My ultimate goal is to address problems that have wide-ranging significance, develop methods that are both accessible and effective, and built intelligent systems that can improve human lives.
 
 
 **Previously:** I received my Ph.D. in Civil Engineering from <a href='https://www.unsw.edu.au/'>University of New South Wales (UNSW Syndey)</a>. During my study, I colaborated with many well recognized researchers such as [Prof Hamid Valipour](https://www.unsw.edu.au/staff/hamid-vali-pour-goudarzi) at UNSW Sydney and [Dr. Stefania Fortino](https://cris.vtt.fi/en/persons/stefania-fortino) at VTT Finland.

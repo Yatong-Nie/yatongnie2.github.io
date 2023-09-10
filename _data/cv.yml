@@ -12,9 +12,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Ditigal Engineering Coordinator
+      institution: Gamuda Australia, Sydney, Australia - M1 Extension Black Hill to Tomago
+      year: 2023 - Present
+      description:
+        - Leading multi-discipline team to implement digital engineering solution.
+        - Lead and set up the coordination and QA/QC workflow across the project.
+        - Built and maintained excellent relationship with stakeholders, including clients and subcontractors
+
     - title: Digital Engineer
       institution: WSP Australia, Sydney, Australia
-      year: 2022 - Present
+      year: 2022 - 2023
       description:
         - Implement the Transport for NSW Digital Engineering Framework on infrastructure projects.
         - Produce federated models and audit against Project Information Requirements (PIM).
