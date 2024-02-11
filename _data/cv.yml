@@ -39,6 +39,14 @@
         - Developed programs and applications to improve project delivery and internal company workflow.
         - Managed and undertook investigations of IFC and BCF format files
 
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Civil Engineering
+      institution: University of New South Wales, NSW, Australia
+      year: 2022
+      description:
+        - Supervised by Prof. Hamid Valipour
 
 - title: Teaching
   type: time_table
