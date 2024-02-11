@@ -1,14 +1,4 @@
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Civil Engineering
-      institution: University of New South Wales, NSW, Australia
-      year: 2022
-      description:
-        - Supervised by Prof. Hamid Valipour
-
-
 - title: Experience
   type: time_table
   contents:
